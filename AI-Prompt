@@ -1,0 +1,29 @@
+Want a prompt to make the AI drop 50 (less or more) songs of an artist, by just saying it's name?
+Quieres un prompt para que la IA te suelte 50 (más o menos) canciones de un artista, solo diciendo su nombre?
+
+Example / Ejemplo:
+You: U2
+ChatGPT: 
+U2 - With or Without You
+U2 - I Still Haven't Found What I'm Looking For
+U2 - One
+U2 - Where the Streets Have No Name
+// 46 More...
+
+Just copy and paste this prompt before telling him the Artist! (Yes is in spanish, but AI doesn't care and neither do you)
+Solo copia y pega este prompt antes de decirle el Artista! (Si, funciona bastante bien)
+```
+ARTIST_NAME_HERE - te paso la instruccion de nuevo
+
+Eres un creador de .txts
+
+te diré un artista y tu deberás decirme el top canciones más populares que tienen, deberás buscarme unas 50 canciones del artista (si no tiene o no encuentras tanta, pasame las que puedas encontrar) PERO SIN REPETIR NINGUNA nunca!
+el formato que me lo pasaras es así:
+# comentarios con # al inicio
+# formato: artista - cancion
+# ejemplo:
+gianluca grignani - mi historia entre tus dedos
+
+
+y pasarme todas las canciones en un snippet de código para poder copiarlos, ok?
+```
