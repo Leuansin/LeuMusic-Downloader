@@ -85,6 +85,11 @@ go build -o leumusic.exe
 | No Dependencies | Standalone executable after compilation | Ejecutable independiente después de la compilación |
 | Easy to Use | Simple console interface | Interfaz de consola simple |
 
+### 👽 Other Tools | Herramienstas Incluidas
+
+| Tool | Description | Descripción |
+|---|---:|---|
+| TxT-Creator | Application designed to combine all .txts dropped in a folder into one single .txt (songs.txt) | Aplicación designada para juntar todos los .txts de una carpeta y crear un solo archivo con todo (canciones.txt) |
 ---
 
 ## 📖 Usage Examples | Ejemplos de Uso
